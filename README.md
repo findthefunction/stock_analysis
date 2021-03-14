@@ -15,7 +15,7 @@ By refactoring the original code as written we were able to see relatively signi
 
 ![original_stock_analysis_time_cropped](https://user-images.githubusercontent.com/31022640/111081378-4324bb00-84c0-11eb-9b43-a46b4972d783.png)!
 
-The improved subroutine blew its doors off with a time of 0.32 seconds.  While a second or two might not seen like a long time for humans, when running large data sets it could amount to significant resource expenditure and processor load. 
+The improved subroutine blew its doors off with a time of 0.32 seconds (edit: time improved after several intances).  While a second or two might not seen like a long time for humans, when running large data sets it could amount to significant resource expenditure and processor load. 
 
 ![green_stocks_optimized_cropped](https://user-images.githubusercontent.com/31022640/111081411-75361d00-84c0-11eb-93ed-6af3e10357a5.png)
 
