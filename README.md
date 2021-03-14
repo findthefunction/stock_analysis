@@ -1,3 +1,4 @@
+
 # Stock analysis exercise with VBA
 
 ## 1. Project Overview
@@ -13,7 +14,11 @@ This is accomplished by creating several output arrays and using the loop functi
 
 By refactoring the original code as written we were able to see relatively significant improvement.  The refactored code saw a ~230 percent increase in speed.  The original code took 1.25 second to compile the information. 
 
+![original_stock_analysis_time_cropped](https://user-images.githubusercontent.com/31022640/111081378-4324bb00-84c0-11eb-9b43-a46b4972d783.png)!
+
 The improved subroutine blew its doors off with a time of 0.53 seconds.  While a second or two might not seen like a long time for humans, when running large data sets it could amount to significant resource expenditure and processor load. 
+
+![green_stocks_optimized_cropped](https://user-images.githubusercontent.com/31022640/111081411-75361d00-84c0-11eb-93ed-6af3e10357a5.png)
 
 Multi-core threading cannot be done natively in VBA which significantly hinders its ability when it comes to large sets of data and numerous operations. 
 
