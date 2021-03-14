@@ -1,4 +1,3 @@
-
 # Stock analysis exercise with VBA
 
 ## 1. Project Overview
@@ -32,6 +31,13 @@ For this instance, running this VBA subroutine on a modest data set there are no
 
 VBA is a great tool for convenient automation within the Excel environment.  
 
+### 2017 refactored test results
+
+![VBA_Challenge_2017](https://user-images.githubusercontent.com/31022640/111081789-45881480-84c2-11eb-87c3-8576833d442a.png)
+
+### 2018 refactored test results
+
+![VBA_Challenge_2018](https://user-images.githubusercontent.com/31022640/111081800-5042a980-84c2-11eb-9aa8-bcd957bf744c.png)
 
 
 
